@@ -19,7 +19,7 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/KOT_MOVIES_FILTER_BOT?startgroup=true')
             ],[
             InlineKeyboardButton('🔍 Search Movies', switch_inline_query_current_chat=''),
             InlineKeyboardButton('Updates Channel 📮', url='https://t.me/KOT_BOTS')
@@ -65,13 +65,13 @@ async def start(client, message):
         return
     if len(message.command) ==2 and message.command[1] in ["subscribe", "error", "okay"]:
         buttons = [[
-            InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/KOT_MOVIES_FILTER_BOT?startgroup=true')
             ],[
             InlineKeyboardButton('🔍 Search Movies', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('Updates Channel 📮', url='https://t.me/KristyBots')
+            InlineKeyboardButton('Updates Channel 📮', url='https://t.me/KOT_BOTS')
             ],[
-            InlineKeyboardButton('Movie Channel 🔖', url='https://t.me/TamilMV_WEB'),
-            InlineKeyboardButton('Discussion Group 📢', url='https://t.me/TMV_Discussion')
+            InlineKeyboardButton('Movie Channel 🔖', url='https://t.me/KING_OF_THE_CARTOONS_CHANNEL'),
+            InlineKeyboardButton('Support Group 📢', url='https://t.me/KOT_REPORS')
             ],[
             InlineKeyboardButton('🆘 Help', callback_data='help'),
             InlineKeyboardButton('About 📌', callback_data='about')
