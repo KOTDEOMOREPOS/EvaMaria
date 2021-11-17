@@ -22,10 +22,10 @@ async def start(client, message):
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('🔍 Search Movies', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('Updates Channel 📮', url='https://t.me/KristyBots')
+            InlineKeyboardButton('Updates Channel 📮', url='https://t.me/KOT_BOTS')
             ],[
-            InlineKeyboardButton('Movie Channel 🔖', url='https://t.me/TamilMV_WEB'),
-            InlineKeyboardButton('Discussion Group 📢', url='https://t.me/TMV_Discussion')
+            InlineKeyboardButton('Movie Channel 🔖', url='https://t.me/KING_OF_THE_CARTOONS_CHANNEL'),
+            InlineKeyboardButton('Support Group', url='https://t.me/KOT_REPORS')
             ],[
             InlineKeyboardButton('🆘 Help', callback_data='help'),
             InlineKeyboardButton('About 📌', callback_data='about')
