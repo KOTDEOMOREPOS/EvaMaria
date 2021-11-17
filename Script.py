@@ -1,38 +1,38 @@
 class script(object):
     START_TXT = """<b>Hello {},
 
-I am A Simple Auto Filter Bot + Inline Movie Search + Manual Filter Bot...I Can Provide Movies In Telegram Groups....\n\nJust Add Me To Your Group And Enjoy 😍\n\n👨‍💻 Developer : <a href='https://telegram.dog/I_m_Kristy'>✯°• Iᴍ Kʀɪsᴛʏ கிறிஸ்டி Via @HiroshiBots •°✯ « Tᴇᴀᴍ Kʀɪsᴛʏ »</a></b>"""
+𝗛𝗜 𝗜 𝗔𝗠 𝗔 𝗦𝗨𝗣𝗘𝗥 𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥 𝗕𝗢𝗧 𝗩𝟯+𝗩𝟰 𝗜 𝗖𝗔𝗡 𝗣𝗥𝗢𝗩𝗜𝗗𝗘 𝗠𝗢𝗩𝗜𝗘𝗦 𝗜𝗡 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 𝗚𝗥𝗢𝗨𝗣𝗦....\n\n𝗝𝗨𝗦𝗧 𝗔𝗗𝗗 𝗠𝗘 𝗧𝗢 𝗬𝗢𝗨𝗥 𝗚𝗥𝗢𝗨𝗣 𝗔𝗡𝗗 𝗘𝗡𝗝𝗢𝗬 😍\n\n👨‍💻 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 : <a href='https://telegram.dog/KOT_FREE_DE_LA_HOYA_OFF'>✯°• Kᴏᴛ Fʀᴇᴇ Dᴇ Lᴀ Hᴏʏᴀ Oғғ °•✯ | ✪ Bᴏᴛs CʀᴇᴀᴛᴏR ✪</a></b>"""
     HELP_TXT = """<b>Bruh {}
 Here Is The Help For My Commands</b>."""
     ABOUT_TXT = """<b>
-🤖 My Name : <a href='https://telegram.dog/ThalaPathy_VjBot'>Tʜᴀʟᴀᴘᴀᴛʜʏ Vᴊ​ 👑</a>
+🤖 My Name : <a href='https://telegram.dog/KOT_MOVIES_FILTER_BOT'>KOT THALAPATHY BOT 👑</a>
  
-👨‍💻 Developer : <a href='https://telegram.dog/I_m_Kristy'>✯°• Iᴍ Kʀɪsᴛʏ கிறிஸ்டி Via @HiroshiBots •°✯ « Tᴇᴀᴍ Kʀɪsᴛʏ »</a>
+👨‍💻 Developer : <a href='https://telegram.dog/KOT_FREE_DE_LA_HOYA_OFF'>✯°• Kᴏᴛ Fʀᴇᴇ Dᴇ Lᴀ Hᴏʏᴀ Oғғ °•✯ | ✪ Bᴏᴛs CʀᴇᴀᴛᴏR ✪</a>
   
-📌 Credits : <a href='https://telegram.dog/TeamEvamaria'>@EvaMaria</a> & <a href='https://github.com/EvamariaTG/EvaMaria'>Team</a>
+📌 Credits : <a href='https://telegram.dog/KOT_LINKS_TEAM'>KOT LINKS TEAM</a> & <a href='https://t.me/KOT_DEVELOPERS'>KOT Team</a>
   
 📡 Server : <a href='https://Heroku.com'>Heroku</a>
   
 📕 Library : <a href='https://Pyrogram.com'>Pyrogram</a>
   
-📦 Source Code : <a href='https://telegram.dog/WantSourceCode'>Click Here</a>
+📦 Source Code : <a href='https://telegram.dog/KOT_SOURCE_CODE'>Click Here</a>
   
-📢 Updates Channel : <a href='https://telegram.dog/KristyBots'>@KristyBots</a>
+📢 Updates Channel : <a href='https://telegram.dog/KOT_BOTS'>@KOT_BOTS</a>
   
-📮 Powerded By : <a href='https://telegram.dog/TamilMV_WEB'>@TamilMV_WEB</a></b>
+📮 Powerded By : <a href='https://telegram.dog/KING_OF_THE_CARTOONS_CHANNEL'>@KOT_CARTOONS_</a></b>
 """
     SOURCE_TXT = """<b>NOTE:</b>
-- Eva Maria is a open source project. 
-- Source - https://github.com/EvamariaTG/EvaMaria  
+- KOT THALAPATHY VIJAY is a open source project. 
+- Source - https://t.me/KOT_SOURCE_CODE
 
 <b>DEVS:</b>
-- <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>"""
+- <a href=https://t.me/KOT_DEVELOPERS>KOT Team</a>"""
     MANUELFILTER_TXT = """<b>Help : Manual Filters
     
     - Filter Is The Feature Were Users Can Set Automated Replies For A Particular Keyword And Tessa Will Respond Whenever A Keyword Is Found The Message
 
 NOTE :
----> @Filter_KristyBot Should Have Admin Privillage / Rights !!! 
+---> @KOT_MOVIES_FILTER_BOT Should Have Admin Privillage / Rights !!! 
 ---> Only Admins Can Add Filters In A Chat...
 ---> Alert Buttons Have A Limit Of 64 Characters...
 
@@ -43,15 +43,15 @@ Commands And Usage :
 • /delall - <code>Delete The Whole Filters In A Chat ( Chat Owner Only )</code></b>"""
     BUTTON_TXT = """<b>Help : Buttons
 
-- @Filter_KristyBot Supports Both Url And Alert Inline Buttons.
+- @KOT_MOVIES_FILTER_BOT Supports Both Url And Alert Inline Buttons.
 
 NOTE :
 ---> Telegram Will Not Allows You To Send Buttons Without Any Content, So Content Is Mandatory.
----> @Filter_KristyBot Supports Buttons With Any Telegram Media Type.
+---> @KOT_MOVIES_FILTER_BOT Supports Buttons With Any Telegram Media Type.
 ---> Buttons Should Be Properly Parsed As Markdown Format
 
 URL Buttons :
-<code>[Button Text](buttonurl:https://telegram.dog/KristyBots)</code>
+<code>[Button Text](buttonurl:https://telegram.dog/KOT_BOTS)</code>
 
 Alert buttons :
 <code>[Button Text](buttonalert:This Is An Alert Message)</code></b>"""
