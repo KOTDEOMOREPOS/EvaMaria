@@ -5,21 +5,23 @@ class script(object):
     HELP_TXT = """<b>Bruh {}
 Here Is The Help For My Commands</b>."""
     ABOUT_TXT = """<b>
-🤖 My Name : <a href='https://telegram.dog/KOT_MOVIES_FILTER_BOT'>KOT THALAPATHY BOT 👑</a>
- 
-👨‍💻 Developer : <a href='https://telegram.dog/KOT_FREE_DE_LA_HOYA_OFF'>✯°• Kᴏᴛ Fʀᴇᴇ Dᴇ Lᴀ Hᴏʏᴀ Oғғ °•✯ | ✪ Bᴏᴛs CʀᴇᴀᴛᴏR ✪</a>
-  
-📌 Credits : <a href='https://telegram.dog/KOT_LINKS_TEAM'>KOT LINKS TEAM</a> & <a href='https://t.me/KOT_DEVELOPERS'>KOT Team</a>
-  
-📡 Server : <a href='https://Heroku.com'>Heroku</a>
-  
-📕 Library : <a href='https://Pyrogram.com'>Pyrogram</a>
-  
-📦 Source Code : <a href='https://telegram.dog/KOT_SOURCE_CODE'>Click Here</a>
-  
-📢 Updates Channel : <a href='https://telegram.dog/KOT_BOTS'>@KOT_BOTS</a>
-  
-📮 Powerded By : <a href='https://telegram.dog/KING_OF_THE_CARTOONS_CHANNEL'>@KOT_CARTOONS_</a></b>
+╭──────[@KOT_BOTS]───────〄
+│
+├ Nᴀᴍᴇ : <a href='https://t.me/KOT_MOVIES_FILTER_BOT'>Tʜᴀʟᴀᴘᴀᴛʜʏ Vɪᴊᴀʏ</a>
+│
+├ Sᴇʀᴠᴇʀ : <a href='https://heroku.com/'>Hᴇʀᴏᴋᴜ</a>
+│ 
+├ Lᴀɴɢᴜᴀɢᴇ : <a href='https://docs.pyrogram.org/'>Pʏᴛʜᴏɴ 3.9.6</a>
+│
+├ Vᴇʀꜱɪᴏɴ : <a href='https://t.me/KOT_MOVIES_FILTER_BOT'>1.5.0 Bᴇᴛᴀ</a>
+│
+├ Fʀᴀᴍᴇᴡᴏʀᴋ : <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ 1.2.9</a>
+│
+├ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/KOT_FREE_DE_LA_HOYA_OFF'>✯°• Kᴏᴛ Fʀᴇᴇ Dᴇ Lᴀ Hᴏʏᴀ Oғғ °•✯ | ✪ Bᴏᴛs CʀᴇᴀᴛᴏR ✪</a>
+│
+├ Pᴏᴡᴇʀᴇᴅ Bʏ : <a href='https://t.me/KOT_LINKS_TEAM'>Kᴏᴛ Lɪɴᴋs Tᴇᴀᴍ</a>
+│
+├ Uᴘᴅᴀᴛᴇᴅ Oɴ : [ 18.11.2021 ] 06:39 PM
 """
     SOURCE_TXT = """<b>NOTE:</b>
 - KOT THALAPATHY VIJAY is a open source project. 
